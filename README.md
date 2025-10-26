@@ -8,7 +8,7 @@ A content-based movie recommendation system built using the TMDB dataset and cos
 
 ## 🚀 Features
 
-- 🔍 Content-based filtering using TF-IDF + Cosine Similarity
+- 🔍 Content-based filtering using bag of words + Cosine Similarity
 - 📚 Trained on TMDB movie metadata
 - 🧠 NLP techniques for vectorization and similarity scoring
 - 🎨 Simple Streamlit UI (via `app.py`)
